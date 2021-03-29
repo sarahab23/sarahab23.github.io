@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What I got to know about stock market so far - beginner friendly
-subtitle: Each post also has a subtitle
+title: What I got to know about Stock Markets so far  
+subtitle: Beginner Friendly
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
