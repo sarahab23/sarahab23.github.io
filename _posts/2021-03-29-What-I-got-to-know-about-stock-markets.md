@@ -23,23 +23,36 @@ This is when I turned to fixed deposits commonly known as FDs, soon I came to kn
 
 ## Getting to know about Stock Markets
 
-* ### NSE and BSE
-                                                      **NSE** and **BSE** examples of **Stock Markets**
-                                                                            |
-                                                                            |
-                                                                            |
-                                                                            |
-                                                                   **Stock Brokers**
-                                                                            |
-                                                                            |
-                                                                            |
-                                                                            |
-                                                                        Investors
-                                                                        (other companies/
-                                                                        individuals)
+* #### NSE and BSE
+                                             **NSE** and **BSE** examples of **Stock Markets**
+                                                                     |
+                                                                     |
+                                                                     |
+                                                                     |
+                                                            **Stock Brokers**
+                                                                     |
+                                                                     |
+                                                                     |
+                                                                     |
+                                                                  Investors
+                                                                  (other companies/
+                                                                   individuals)
   * **NSE - National Stock Exchange** (Around 1500 companies under it)
   *  **BSE - Bombay Stock Exchange** (Around 5000 companies under it)
-* ### 
+* #### SEBI
+  **SEBI - Securities and Exchange Board of India** Basically regulates the exchanges or transactions. Takes care/make sure the users aren't cheated or whether the company is genuine and following the rules and regulation.
+* #### Demat and Trading Accounts
+  **Demat Account** - Keeps a record of all share/stock bought(Once you buy a stock/share it shows up in our demat account)
+  **Transaction account** - Keeps a record of money transactions involved (money required to buy or sell stocks)
+* #### Stock Broker
+  - Picking a Stock Borker is like picking the best college for you. You've got to choose the best one with multiple services, commonly preffered or used, along with other benefits and the least brockerage. 
+  - The best Stock Broker in India is Zerodha.
+  - Consists of a demat and transaction account
+  - Demat terminal in app
+  - Provides tips to users  
+* **When supply is more - price is less - demand is less**
+  **When supply is less - price is high - demand is more**
+* 
 
 
 
