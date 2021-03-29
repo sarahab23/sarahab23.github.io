@@ -2,7 +2,7 @@
 layout: post
 title: What I got to know about Stock Markets so far  
 subtitle: Beginner Friendly
-gh-repo: daattali/beautiful-jekyll
+gh-repo: sarahab23/sarahab23.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
