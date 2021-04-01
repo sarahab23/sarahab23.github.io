@@ -24,19 +24,19 @@ This is when I turned to fixed deposits commonly known as FDs, soon I came to kn
 ## Getting to know about Stock Markets
 
 * #### NSE and BSE
-                                             **NSE** and **BSE** examples of **Stock Markets**
-                                                                     |
-                                                                     |
-                                                                     |
-                                                                     |
-                                                            **Stock Brokers**
-                                                                     |
-                                                                     |
-                                                                     |
-                                                                     |
-                                                                  Investors
-                                                                  (other companies/
-                                                                   individuals)
+                                   **NSE** and **BSE** examples of **Stock Markets**
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                    **Stock Brokers**
+                                                            |
+                                                            |
+                                                            |
+                                                            |
+                                                        Investors
+                                                  (other companies/
+                                                        individuals)
   * **NSE - National Stock Exchange** (Around 1500 companies under it)
   *  **BSE - Bombay Stock Exchange** (Around 5000 companies under it)
 * #### SEBI
@@ -51,9 +51,11 @@ This is when I turned to fixed deposits commonly known as FDs, soon I came to kn
   - Demat terminal in app
   - Provides tips to users  
 * **When supply is more - price is less - demand is less**
-  **When supply is less - price is high - demand is more**
-* 
 
+  **When supply is less - price is high - demand is more**
+* #### What does it mean by a company going public?
+  - There are different in which a company can go public- afew of them are IPO (Initial Public Offering) and Direct Listing.
+  - 
 
 
 
